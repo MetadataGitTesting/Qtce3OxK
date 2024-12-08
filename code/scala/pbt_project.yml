@@ -1,0 +1,49 @@
+name: brad.kuhic
+description: Ergonomic
+version: 0.0.1
+author: 2ysyuplx.i0awkatz@dgw6lv7a.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: bradkuhic
+  parentArtefactID: team1733701378420
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 23:43:29'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 23:43:30'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T23:43:30.301666Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '972969530'
+  createdAt: '2024-12-08T23:43:30.301666Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
